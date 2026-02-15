@@ -39,7 +39,7 @@ Set them as environment variables:
 export VT_API_KEY="YOUR_VIRUSTOTAL_KEY"
 export ABUSEIPDB_KEY="YOUR_ABUSEIPDB_KEY"
 
-How to Install and Run
+How to Install and Run:
 1. Clone the repository
 git clone [your github link]
 
